@@ -16,7 +16,7 @@ MAX_PLAYERS=25
 YOOKASSA_SHOP_ID=
 YOOKASSA_SECRET=
 # Куда вернуть пользователя после оплаты
-PAYMENT_RETURN_URL=https://t.me/your_bot_username
+PAYMENT_RETURN_URL=https://t.me/@AntifootballKazan_bot
 
 # ── База данных ───────────────────────────────────────────────
 DB_PATH=football.db
