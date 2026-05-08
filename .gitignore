@@ -1,0 +1,23 @@
+# ── Telegram ──────────────────────────────────────────────────
+# Токен бота — получить у @BotFather
+BOT_TOKEN=8603142168:AAHz41pg_7oSVVnrVzWRRrI0sA8-nkTEZeQ
+
+# Telegram ID администраторов через запятую (узнать у @userinfobot)
+ADMIN_IDS=AntifootballKazan_bot
+
+# ── Клуб ──────────────────────────────────────────────────────
+CLUB_NAME=Антифутбол ⚽ 
+CLUB_ADDRESS=ул. Баско ул. Степана Халтурина, 3, Казань
+MAX_PLAYERS=25
+
+# ── ЮKassa (онлайн-оплата) ────────────────────────────────────
+# Получить на https://yookassa.ru → Настройки → API
+# Оставь пустым — бот будет работать без онлайн-оплаты
+YOOKASSA_SHOP_ID=
+YOOKASSA_SECRET=
+# Куда вернуть пользователя после оплаты
+PAYMENT_RETURN_URL=https://t.me/your_bot_username
+
+# ── База данных ───────────────────────────────────────────────
+DB_PATH=football.db
+
